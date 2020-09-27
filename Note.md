@@ -1,0 +1,8 @@
+- Thêm loại activity khác, cho phép nhập thủ công số tiền đã chi cho hoạt động đó.
+- Tên các job title đang dùng không được trùng nhau.
+- Email không trùng và không được thay đổi.
+- Có 2 loại email thông báo và email nhắc đóng tiền.
+- Replace InvalidRequest with detailed information about why the request fails.
+- Add special endpoints for batch process API requests, this will be used to provide atomic API operations for client.
+- Add documentation for /login and /logout endpoint.
+- Add endpoint for recover password.
